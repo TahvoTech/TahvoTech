@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on AI-driven projects, particularly in the fields of finance, data analysis, and software development.
 - 🤔 I’m looking for help with refining my skills in deploying machine learning models to production environments.
 - 💬 Ask me about my experience in credit management, debt collection, or how I’m transitioning into the tech world through AI and machine learning.
-- 📫 How to reach me: Feel free to connect with me on LinkedIn or email me at your.email@example.com.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn or email me at jarmo(dot)tahvanainen@gmail(dot)com.
 - 😄 Pronouns: He/Him
 - Fun facts:
     - 🍔 I love a good burger (even better when it’s a vegan one!) and enjoy pairing it with a craft beer.
