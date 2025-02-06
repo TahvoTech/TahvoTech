@@ -9,7 +9,7 @@
 - 📫 How to reach me: Feel free to connect with me on LinkedIn or email me at **jarmo(dot)tahvanainen@gmail(dot)com**.
 - 😄 Pronouns: He/Him
 - Fun facts:
-    - 🍔 I love a good burger (even better when it’s a vegan one!) and enjoy pairing it with a craft beer.
+    - 🍔 I love a good burger and enjoy pairing it with a craft beer.
     - 🌱 I prefer vegan food and love experimenting with new recipes.
     - 🏞️ I enjoy hiking and love exploring new trails in nature.
 
